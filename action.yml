@@ -1,5 +1,10 @@
 name: Swift
 
+inputs: 
+  repository:
+    description: Bull-s-Eye ManthanKeim
+    default: ${{ github.repository }}
+
 on:
   push:
     branches: [ master ]
