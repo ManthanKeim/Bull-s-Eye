@@ -1,4 +1,4 @@
-name: ManthanKeim
+name: Swift
 
 on:
   push:
@@ -12,7 +12,7 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - uses: Bull-s-Eye@master
+    - uses: actions/checkout@v2
     - name: Build
       run: swift build -v
     - name: Run tests
