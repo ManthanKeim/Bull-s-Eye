@@ -1,9 +1,6 @@
 name: Swift
 
-inputs: 
-  repository:
-    description: Bull-s-Eye ManthanKeim
-    default: ${{ github.repository }}
+author: 'sarthak-saxena'
 
 on:
   push:
