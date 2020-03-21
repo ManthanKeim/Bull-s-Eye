@@ -3,3 +3,5 @@
 iOS simple interactive game
 
 ios version: 11
+
+WIP: New Features to be added
