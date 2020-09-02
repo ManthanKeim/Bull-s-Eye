@@ -1,3 +1,3 @@
-# Bull-s-Eye
+# Bull's-Eye
 
 iOS simple interactive game
